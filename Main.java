@@ -54,7 +54,7 @@ public class Main {
                     StandardOpenOption.APPEND);
 
         } catch (Exception e) {
-            System.err.println("Erro encontrado: " + e);
+            System.err.println("Erro encontrado*: " + e);
         }
 
     }
